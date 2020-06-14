@@ -1,2 +1,2 @@
 # Python_Basics
-The basics of python and the overview of its basic features
+A short repository. Go through source for python's syntax.
